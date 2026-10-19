@@ -1,4 +1,3 @@
-# Data_warehouse_project
 Data Warehouse and Analytics Project
 YouTube Udemy Website License Stars
 
